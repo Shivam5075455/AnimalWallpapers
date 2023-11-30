@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AnimalsWallpapers</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="cute_cat">Cute Cat</string>
+    <string name="random_cat">Random Cat</string>
+    <string name="nav_open">Nav open</string>
+    <string name="nav_close">Nav close</string>
+    <string name="change">Change</string>
+    <string name="random_dog">Random Dog</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
